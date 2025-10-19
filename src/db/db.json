@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "f8ccee20-34f6-4d03-a3ca-1efd721bd7a2",
+    "name": "Jan Fadel",
+    "phone": "655.871.6736 x170",
+    "email": "Angelo52@yahoo.com",
+    "job": "International Infrastructure Facilitator"
+  },
+  {
+    "id": "64a7d750-4cc8-4968-b560-45d4aeb09a12",
+    "name": "Lonnie Wunsch",
+    "phone": "(301) 693-9756 x63855",
+    "email": "Marge.Romaguera@gmail.com",
+    "job": "Global Applications Developer"
+  },
+  {
+    "id": "f9028959-c5b9-42e7-b148-2136822568dd",
+    "name": "Barry D'Amore",
+    "phone": "1-607-824-7455 x05091",
+    "email": "Chase_Hauck@yahoo.com",
+    "job": "Regional Marketing Coordinator"
+  },
+  {
+    "id": "42ad1ab2-b290-4b5d-9f6a-44ccd2400c6c",
+    "name": "Paulette Kris",
+    "phone": "1-387-480-7058 x97589",
+    "email": "Mazie_Hintz@gmail.com",
+    "job": "National Integration Consultant"
+  }
+]
